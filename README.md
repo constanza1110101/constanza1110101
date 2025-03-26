@@ -1,5 +1,6 @@
 CONSTANZA1110101
 Cybersecurity Researcher & Developer
+
 Hi, I'm CONSTANZA1110101, a cybersecurity enthusiast with a passion for developing secure solutions for critical infrastructure. My work focuses on the intersection of security, financial systems, and network communications.
 
 🔐 Interests
