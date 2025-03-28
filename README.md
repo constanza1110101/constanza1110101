@@ -1,4 +1,4 @@
-👨‍💻 CONSTANZA1110101 | 01000011 01111001 01100010 01100101 01110010
+👨‍💻 CONSTANZA1110101 | 
 
 "In the digital realm, security isn't just a layer—it's the foundation upon which everything else stands." 🏛️
 
